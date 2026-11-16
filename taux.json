@@ -1,0 +1,26 @@
+{
+ "maj": "2026-11-14",
+ "historique": [
+  {
+   "pays": "FR",
+   "date_effet": "2026-02-01",
+   "taux": {
+    "livret_a": 1.5,
+    "ldds": 1.5,
+    "lep": 2.5
+   },
+   "source": "Banque de France"
+  },
+  {
+   "pays": "FR",
+   "date_effet": "2026-08-01",
+   "taux": {
+    "livret_a": 1.7,
+    "ldds": 1.7,
+    "lep": 2.5,
+    "cel": 1.25
+   },
+   "source": "Arrêté du 28 juillet 2026 (Journal officiel)"
+  }
+ ]
+}
